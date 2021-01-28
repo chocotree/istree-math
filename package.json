@@ -1,0 +1,24 @@
+{
+  "name": "istree-math",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chocotree/istree-math.git"
+  },
+  "keywords": ["practice"],
+  "author": "isTree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chocotree/istree-math/issues"
+  },
+  "homepage": "https://github.com/chocotree/istree-math#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
